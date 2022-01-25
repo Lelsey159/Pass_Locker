@@ -54,7 +54,7 @@ To run the application, in your terminal:
 
 ### Technologies Used
 
-> * python3.9
+* python3.9
 
 ###  CONTACT US
 > 1.If you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com.
@@ -63,5 +63,5 @@ To run the application, in your terminal:
 
 #### License
 > * *MIT License:*
-> * Copyright ©2022 **Lesley-Hope*
+> * Copyright ©2022 **Lesley Hope*
 
