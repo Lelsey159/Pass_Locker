@@ -38,3 +38,12 @@ These are the behaviours/features that the application implements for use by a u
 * In Linux  source ./virtual/bin/activate
 * code . or atom . based on the text editor you have.
 ```
+
+### Running the Application
+To run the application, in your terminal:
+
+```
+ * $ #!/usr/bin/env python3.9
+ * $ chmod +x run.py
+ * $ ./run.py
+```
