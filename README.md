@@ -51,3 +51,8 @@ To run the application, in your terminal:
 ### Technologies Used
 
 > * python3.9
+
+###  CONTACT US
+> 1.If you have any issue with our website,dont hesitate to contact us lesley.hope@student.moringaschool.com.
+
+> 2.Phone Number: +254 771754165
