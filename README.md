@@ -4,7 +4,7 @@
 > [Lesley Hope]
 
 ### Description
-Pass_Lockerr is a terminal based python application that allows users to store their details that is their usernames and passwords of their various accounts.
+Pass_Locker is a terminal based python application that allows users to store their details that is their usernames and passwords of their various accounts.
 
 
 ### User Stories
@@ -30,7 +30,7 @@ These are the behaviours/features that the application implements for use by a u
 
 ```
 * Open Terminal {Ctrl+Alt+T}
-* git clone 
+* git clone git@github.com:Lelsey159/Pass_Locker.git
 * cd Pass_Locker
 * virtualenv virtual
 * This will create a virtual folder
