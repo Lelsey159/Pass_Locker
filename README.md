@@ -2,3 +2,6 @@
 ## Built By 
 
 > [Lesley Hope]
+
+### Description
+Password Locker is a terminal based python application that allows users to store their details that is their usernames and passwords of their various accounts.
