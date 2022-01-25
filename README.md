@@ -47,3 +47,7 @@ To run the application, in your terminal:
  * $ chmod +x run.py
  * $ ./run.py
 ```
+
+### Technologies Used
+
+> * python3.9
