@@ -26,4 +26,15 @@ These are the behaviours/features that the application implements for use by a u
 * python3.9
 * pip
 
+### Cloning
 
+```
+* Open Terminal {Ctrl+Alt+T}
+* git clone 
+* cd password-locker
+* virtualenv virtual
+* This will create a virtual folder
+* In Windows activate using virtual\Scripts\activate
+* In Linux  source ./virtual/bin/activate
+* code . or atom . based on the text editor you have.
+```
