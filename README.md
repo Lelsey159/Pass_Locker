@@ -61,4 +61,7 @@ To run the application, in your terminal:
 
 > 2.Phone Number: +254 771754165
 
+#### License
+> * *MIT License:*
+> * Copyright ©2022 **Lesley-Hope*
 
