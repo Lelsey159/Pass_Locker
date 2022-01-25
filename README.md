@@ -19,5 +19,11 @@ These are the behaviours/features that the application implements for use by a u
 * Delete stored account login details.
 * Copy credentials to the clipboard.
 
+### SetUp / Installation Requirements
+##### The application requires the following installations to operate 
+
+* virtualenv
+* python3.9
+* pip
 
 
