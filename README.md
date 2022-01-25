@@ -5,7 +5,7 @@
 
 ## Built By 
 
-> [Lesley Hope]
+> [Lesley Hope](https://github.com/Lelsey159/Pass_Locker.git)
 
 ### Description
 Pass_Locker is a terminal based python application that allows users to store their details that is their usernames and passwords of their various accounts.
